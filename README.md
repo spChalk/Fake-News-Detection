@@ -13,7 +13,7 @@ This project was developed in order to classify data extracted by news and artic
 
 ## Project's Structure
 The project is seperated into four (4) main parts:
-1. Data Preprocessing.
+1. Data preprocessing/cleaning/transformation.
 2. Studying the data and extracting statistical data, in order to completely comprehend the provided datasets.
 3. Implementation and evaluation of the system. In this section, various classification methods are being tested and compared to each other (Logistic Regression, Naive Bayes, SVM and Random Forests applied to document-words and document-vectors representations), in order to find the algorithm that is most suitable for the project. Also, every method's performance is being evaluated (accuracy, F1 score).
 4. Hyperparameter tuning and improving the overall best performing classification method.
