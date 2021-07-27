@@ -1,4 +1,4 @@
-# Fake-News-Detection
+# :interrobang: :newspaper_roll: Fake-News-Detection
 
 ## Description
 **Fake News Detection System** is a fully functional *Data Mining* project, that emphasizes the basic stages and techniques that are being followed during a data mining project:
